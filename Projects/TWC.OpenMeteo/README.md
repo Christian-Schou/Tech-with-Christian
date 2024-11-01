@@ -22,36 +22,26 @@ Open-Meteo is an open-source weather API and offers free access for non-commerci
 ### How to use it
 
 * Clone the repository
+  
   ```
   git clone git@github.com:Christian-Schou/Tech-with-Christian.git
   ```
 * Navigate to the project
+  
   ```
   cd Tech-with-Christian/Projects/TWC.OpenMeteo
   ```
 * Restore packages
+  
   ```
   dotnet restore
   ```
 * Open in Visual Studio Code
+  
   ```
   code .
   ```
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+  Make the changes you need, write a test or two, pack it and use it.
 
 ## Authors
 
